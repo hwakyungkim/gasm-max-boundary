@@ -1,0 +1,9 @@
+name = "max32"
+defaultTargets = ["Max32Lean"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+
+[[lean_lib]]
+name = "Max32Lean"

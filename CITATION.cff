@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "gasm-max-boundary: supplementary code and Lean formalization for the maximum of the lattice for generalized alternating sign matrices"
+version: "1.0"
+date-released: "2026-11-21"
+license: MIT
+authors:
+  - family-names: "Kim"
+    given-names: "Hwa Kyung"
+    email: "indices@smu.ac.kr"
+    affiliation: "Department of Mathematics Education, Sangmyung University, Seoul, Republic of Korea"
+    orcid: "https://orcid.org/0000-0001-7727-9204"
+# After Zenodo issues the DOI, uncomment the two lines below and fill in the number.
+# doi: "10.5281/zenodo.XXXXXXXX"
+# url: "https://doi.org/10.5281/zenodo.XXXXXXXX"
+repository-code: "https://github.com/hwakyungkim/gasm-max-boundary"
+abstract: >-
+  JavaScript (Node.js) programs that count classes of generalized alternating
+  sign matrices directly from the definition and check, on small arrays and
+  for the values of Table 1, the main statements of the paper "The maximum of
+  the lattice for generalized alternating sign matrices"; and a Lean 4
+  (Mathlib) formalization of its main theorem, the folding inequality and the
+  folding injection, for all m, n >= 2.
+keywords:
+  - alternating sign matrix
+  - generalized alternating sign matrix
+  - six-vertex model
+  - height function
+  - Lean 4
