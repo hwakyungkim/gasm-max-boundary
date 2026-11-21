@@ -1,7 +1,6 @@
 # The maximum of the lattice for generalized ASMs (supplementary material)
 
-<!-- After the Zenodo DOI is issued, replace XXXXXXXX below (two places) and uncomment the badge. -->
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24408881.svg)](https://doi.org/10.5281/zenodo.24408881)
 
 Supplementary material for the paper
 
@@ -62,7 +61,7 @@ are in [`lean/README.md`](lean/README.md).
 
 H. K. Kim, *gasm-max-boundary: supplementary code and Lean formalization for
 the maximum of the lattice for generalized alternating sign matrices*,
-version 1.0 [software], Zenodo, 2026. https://doi.org/10.5281/zenodo.XXXXXXXX
+version 1.0 [software], Zenodo, 2026. https://doi.org/10.5281/zenodo.24408881
 
 Author ORCID: https://orcid.org/0000-0001-7727-9204
 

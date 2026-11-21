@@ -11,9 +11,8 @@ authors:
     email: "indices@smu.ac.kr"
     affiliation: "Department of Mathematics Education, Sangmyung University, Seoul, Republic of Korea"
     orcid: "https://orcid.org/0000-0001-7727-9204"
-# After Zenodo issues the DOI, uncomment the two lines below and fill in the number.
-# doi: "10.5281/zenodo.XXXXXXXX"
-# url: "https://doi.org/10.5281/zenodo.XXXXXXXX"
+doi: "10.5281/zenodo.24408881"
+url: "https://doi.org/10.5281/zenodo.24408881"
 repository-code: "https://github.com/hwakyungkim/gasm-max-boundary"
 abstract: >-
   JavaScript (Node.js) programs that count classes of generalized alternating
